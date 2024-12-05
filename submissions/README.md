@@ -1,6 +1,6 @@
 # Hackaccino Submissions
 
-Create a new directory in this folder with your. Inside the directory, create a markdown file with the name `README.md` and include the following details:
+Create a new directory in this folder with your name. Inside the directory, create a markdown file with the name `README.md` and include the following details:
 
 ---
 
